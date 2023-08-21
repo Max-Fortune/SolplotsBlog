@@ -4,9 +4,9 @@ image: solplots_logo.png
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/solplots/
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/peter-m-f/
