@@ -8,9 +8,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Max-Fortune
       - icon: twitter
-        href: https://twitter.com
+        href: https://www.instagram.com/solplots/
 format:
   html:
     theme: cosmo
